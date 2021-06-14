@@ -24,4 +24,6 @@ The results for the new DataFrame are explained in more detail below.
 - This means that apart from the mentorship program Bobby's manager will have to start a hireing process as this is only just analysising the senior roles,
   there are also a total of 26,465 engineering and staff roles combined with 699 mentorships eligible.
 - While there are over 500 mentorship roles available for both senior and entry level jobs, that is still under a 5 percent of the employees retiring.
+  That being said Pewlett-Hackard does have enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees
+  but will need to start Interveiwing ASAP.
  
